@@ -44,5 +44,5 @@
 - Okteto ile value şeklinde appjson 👉 Bilgilerini doldurun.. Otomatik kurulum yapar. 
 
 ### Bu projeye yardım eden. 
-- [Bir_Beyfendi](https://github.com/BirBeyfendi): Geliştirici / 🥳
-- [Telegram](https://t.me/Bir_Beyfendi)
+- [Bir_Beyfendi](https://github.com/umutsuzben): Geliştirici / 🥳
+- [Telegram](https://t.me/benumutsuz)
